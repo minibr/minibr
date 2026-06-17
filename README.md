@@ -25,5 +25,5 @@
 <h2> Stats </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minibr&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minibr&layout=compact&theme=dracula" />
+  
 </div>
