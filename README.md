@@ -10,7 +10,6 @@
 - `2026.02` **[T & T](https://github.com/minibr/TT-Ticket-Trade)** · 티켓팅·거래 플랫폼
 - `2025.11` **[MotionIt](https://github.com/minibr/Together-Motionit)** · 홈트레이닝 챌린지 플랫폼
 - `2024.12` **[감정의 숲](https://github.com/DU-E/unknown-note-server)** · 익명 일기·감정 기록 앱
-- `2023.06` **[Recall](https://github.com/minibr/Recall)** · 주식 자동매매 프로그램
 
 ### Skills
 - <b>BackEnd</b><br/>
